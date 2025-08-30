@@ -1,0 +1,63 @@
+footer {
+  min-height: 383px;
+  background-color: #171a1fff;
+  padding-top: 96px;
+  color: #dee1e6ff;
+}
+
+#logo {
+  width: 123px;
+  padding: 0%;
+}
+
+h5 {
+  font-family: Sarabun; /* Heading */
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #dee1e6ff;
+}
+
+a {
+  font-family: Lato !important; /* Body */
+  font-size: 14px !important;
+  line-height: 22px !important;
+  font-weight: 400 !important;
+  color: #dee1e6ff !important;
+}
+
+form h5 {
+  font-family: Sarabun; /* Heading */
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #0ea89bff;
+}
+
+p {
+  font-family: Lato; /* Body */
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #dee1e6ff;
+}
+
+form input {
+  height: 36px;
+}
+
+form button {
+  height: 36px;
+  font-family: Lato !important;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  font-weight: 400 !important;
+  color: #ffffffff !important;
+}
+
+form input::placeholder {
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 400;
+}

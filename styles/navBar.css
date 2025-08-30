@@ -1,0 +1,28 @@
+#pp {
+    width: 36px;
+    border-radius: 50%;
+    background-color: #A5F8F1FF;
+}
+
+nav {
+    min-height: 64px;
+}
+
+.nav-link.active {
+    color: #0ea89b !important;
+}
+
+.nav-link {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    color: #565E6CFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+i {
+    font-size: large;
+}

@@ -1,0 +1,95 @@
+#advices {
+    min-height: 910px;;
+}
+
+#moreArticles {
+    width: 152px; 
+    height: 44px; 
+    padding: 0 16px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    font-family: Lato; 
+    font-size: 16px; 
+    line-height: 26px; 
+    font-weight: 400; 
+    color: #FFFFFFFF;
+    background: #0EA89BFF;
+    opacity: 1; 
+    border: none; 
+    border-radius: 4px;
+}
+
+
+#moreArticles:hover {
+  color: #FFFFFFFF;
+  background: #0C988DFF;
+}
+
+#moreArticles:hover:active {
+  color: #FFFFFFFF;
+  background: #0B877CFF;
+}
+
+#moreArticles:disabled {
+  opacity: 0.4; 
+}
+
+
+/* Container 75 */
+.artCard {
+  width: 376px; 
+  height: 446px; 
+  background: #FFFFFFFF; /* white */
+  border-radius: 6px; /* border-l */
+  box-shadow: 0px 0px 1px #171a1f1C, 0px 0px 2px #171a1f29; /* shadow-xs */
+  overflow: hidden;
+}
+
+.artCard img {
+    height: 256px;
+    width: 376px;
+}
+
+#ct {
+  width: 328px !important; 
+  font-family: Lato !important; /* Body */
+  font-size: 16px !important; 
+  line-height: 26px !important; 
+  font-weight: 400 !important; 
+  color: #0EA89BFF !important; /* primary-500 */
+}
+
+#cx {
+  width: 328px !important; 
+  font-family: Sarabun !important; /* Heading */
+  font-size: 24px !important; 
+  line-height: 36px !important; 
+  font-weight: 700 !important; 
+  color: #171A1FFF !important; /* neutral-900 */
+}
+
+#card-date {
+  font-family: Lato !important; /* Body */
+  font-size: 14px !important; 
+  line-height: 22px !important; 
+  font-weight: 400 !important; 
+  color: #9095A0FF !important; /* neutral-500 */
+}
+
+#readLength {
+    height: 28px !important;
+    width: 77px !important;
+    font-family: Lato !important; /* Body */
+    font-size: 12px !important; 
+    line-height: 28px !important; 
+    font-weight: 400 !;
+    background-color: #F3F4F6FF !important;
+    border-radius: 14px !important;
+    color: black !important;
+}
+
+.article {
+  width: 376px !important;
+  padding: 0%;
+}

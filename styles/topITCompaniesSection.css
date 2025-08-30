@@ -1,0 +1,43 @@
+.itCompany {
+    height: 240px;
+    width: 270px;
+    border-radius: 4px;
+    background-color: #fafafb;
+}
+
+h6 {
+    font-family: Sarabun;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 700;
+    color: #171A1FFF;
+}
+
+.jobNum {
+    font-family: Sarabun;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #0EA89BFF;
+}
+
+.jobSpacer {
+    color: #bcc1ca;
+}
+
+.jobLoc {
+    font-family: Sarabun;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #171A1FFF;
+}
+
+#itTop {
+    min-height: 700px;
+}
+
+.it {
+    width: 268.4px !important;
+    padding: 0%;
+}

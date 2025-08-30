@@ -1,0 +1,101 @@
+#explore {
+    min-height: 512px;
+}
+
+.h1 {
+    font-family: Sarabun;
+    font-size: 48px;
+    line-height: 68px;
+    font-weight: 700;
+    color: #323842;
+}
+
+.h1Highlight {
+    font-family: Sarabun;
+    font-size: 48px;
+    line-height: 68px;
+    font-weight: 700;
+    color: #0ea89b;
+}
+
+#jobSearch {
+    max-width: 774px;
+    height: 50px;
+}
+
+#searchText {
+    padding-left: 52px;
+    padding-right: 20px;
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    background: #f2f4f7 !important;
+    border-radius: 6px 0px 0px 6px;
+    border-width: 0px;
+    outline: none;
+    background-image: url('../101/images/101-1017087_search-icon-our-vision-png-icon-transparent-png.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    width: 50%;
+}
+
+#searchLocation {
+    border-width: 0px 1px;
+    border-color: white;
+    background: #f2f4f7 !important;
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    width: 25%;
+}
+
+#searchLocation:hover {
+    color: #171a1f;
+}
+
+#searchButton {
+    border-color: white;
+    border-width: 0px;
+    border-left-width: 1px;
+    background: #0ea89b !important;
+    color: white;
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    width: 25%;
+}
+
+.category-card {
+  width: 180px;
+  height: 180px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+
+/* Background colors for each category */
+.bg-finance { background-color: #e6fafa; }
+.bg-education { background-color: #fff3e6; }
+.bg-it { background-color: #f3e6ff; }
+.bg-marketing { background-color: #ffe6f9; }
+
+.bg-teal { background-color: #009688; }
+.bg-orange { background-color: #ff5722; }
+.bg-purple { background-color: #673ab7; }
+.bg-pink { background-color: #e91e63; }
