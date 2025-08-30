@@ -16,7 +16,7 @@ nav {
     font-family: Lato;
     font-size: 14px;
     font-weight: 400;
-    color: #565E6CFF;
+    color: #565E6CFF !important;
 }
 
 ul {
